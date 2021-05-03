@@ -7,4 +7,4 @@
     2. DC offset removal, edge effects cutting
     3. Voltage scaling
     4. Spectral analysis
-    5. Histogram, distribution
+    5. Histogram distribution

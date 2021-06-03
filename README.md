@@ -1,4 +1,4 @@
-## Sensor Characterization of a Thermopile
+## Sensor Characterization of a Thermopile - main
 
 * This project is forcused on the Johnson’s noise analysis of a Thermopile
 

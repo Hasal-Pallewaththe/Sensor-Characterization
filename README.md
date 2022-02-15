@@ -8,4 +8,4 @@
     3. Voltage scaling
     4. Spectral analysis
     5. Histogram distribution
-    6. Additional
+    6. Additional 
